@@ -104,7 +104,7 @@ programmer_hash
 end
 
 def adding_to_dennis
-  def adding_matz
+
   programmer_hash =
 		{
 				:grace_hopper => {
