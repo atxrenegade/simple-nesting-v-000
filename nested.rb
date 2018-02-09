@@ -83,7 +83,7 @@ def adding_matz
 end  
 
 def changing_alan 
-  def adding_matz
+ 
   programmer_hash =
 		{
 				:grace_hopper => {
